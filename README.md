@@ -56,7 +56,7 @@ As hipóteses foram refutadas ou confirmadas através da análise de dados, e a 
 ---
 
 ## 🎥 Apresentação    
-- **Link para o vídeo de apresentação**: _[a ser inserido]_
+- [Link para o vídeo de apresentação](https://www.loom.com/share/b55cc3abd049486d8e6cf2c4119378ca?sid=77208356-1ec7-4aa1-961f-b576fb783f84)
 
 ---
 
