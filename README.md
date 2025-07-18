@@ -9,6 +9,8 @@ As hipóteses foram refutadas ou confirmadas através da análise de dados, e a 
 - [Acesse aqui](https://coda.io/d/Documentacao-Projeto-2_dUGFteZjFfk/Documentacao-Ficha-Tecnica-Projeto-2_su34dcvN#_luhqlmH8)
 
 ---
+## BigQuery
+- [Arquivo](https://console.cloud.google.com/bigquery?hl=pt&pli=1&inv=1&invt=Ab3DDQ&project=projeto2laboratoria-464623&supportedpurview=project&ws=!1m5!1m4!4m3!1sprojeto2laboratoria-464623!2sanalisehipoteses!3stabela_unificada)
 
 ## 🧠 Consultas no BigQuery
 
