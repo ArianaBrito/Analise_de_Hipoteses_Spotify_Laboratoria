@@ -55,8 +55,7 @@ As hipóteses foram refutadas ou confirmadas através da análise de dados, e a 
 
 ---
 
-## 📈 Visualização no Power BI
-- **Link para o relatório no Power BI**: _[a ser inserido]_  
+## 🎥 Apresentação    
 - **Link para o vídeo de apresentação**: _[a ser inserido]_
 
 ---
